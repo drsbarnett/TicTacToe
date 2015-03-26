@@ -15,7 +15,7 @@ public class XnO {
     public static char [][] board=new char[3][3]; 
     public static int row, col; //used for storing user input
     public static Scanner scan=new Scanner(System.in);
-    
+    //test
     public static void main(String[] args) {
         int p1score=0, p2score=0;
         String stop="";
